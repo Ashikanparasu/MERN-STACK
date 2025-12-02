@@ -10,6 +10,6 @@ app.listen(port, () => {
     console.log(`app is listening on port ${port}`);
 });
 
-app.listen(req,res ) =>{
+app.listen(req,res) => {
     console.log("Request Recievied");
-}
+}; 
